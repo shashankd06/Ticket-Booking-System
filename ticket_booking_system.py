@@ -419,7 +419,6 @@ def client_menu():
 
 def main_menu():
     print("""
-*** SSPVR ***
 1. Purchase Ticket
 2. Admin Controls
 3. Exit
